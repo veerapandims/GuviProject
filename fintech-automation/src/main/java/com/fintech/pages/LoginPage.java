@@ -1,0 +1,1 @@
+package com.fintech.pages; public class LoginPage {}
